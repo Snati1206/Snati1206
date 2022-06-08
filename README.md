@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Snati1206
+- 👀 I’m interested in digital signal processing, enfasized in audio.
+- 🌱 I’m currently learning game audio implementation
+- 📫 How to reach me: 
+-     email: josebarragan807@gmail.com 
+-     linkedin: https://www.linkedin.com/in/santiago-barrag%C3%A1n-282899205
+-     freelancer: https://www.freelancer.com/u/santiago1206
