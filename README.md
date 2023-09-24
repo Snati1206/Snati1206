@@ -4,4 +4,3 @@
 - 📫 How to reach me: 
 -     email: josebarragan807@gmail.com 
 -     linkedin: https://www.linkedin.com/in/santiago-barrag%C3%A1n-282899205
--     freelancer: https://www.freelancer.com/u/santiago1206
