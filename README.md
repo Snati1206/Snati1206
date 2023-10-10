@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Snati1206
-- 👀 I’m interested in digital signal processing, enfasized in audio.
-- 🌱 I’m currently learning game audio implementation
+- 👋 Hi, I’m @Snati1206 : Santiago Barragán
+- 👀 I'm a musician who's currently doing a master's degree in Computer Music.
+- 🌱 I’m a noob but I'll be frequently posting some of the things that I do
 - 📫 How to reach me: 
 -     email: josebarragan807@gmail.com 
--     linkedin: https://www.linkedin.com/in/santiago-barrag%C3%A1n-282899205
+-     linkedin: https://www.linkedin.com/in/santiago-barrag%C3%A1n-282899205 (I don't use it as much)
